@@ -1,0 +1,10 @@
+{
+  "name": "email-send-api",
+  "entry": "./src/index.js",
+  "installCommand": "npm install",
+  "buildCommand": "",
+  "assets": {
+    "directory": "",
+    "notFoundStrategy": ""
+  }
+}
